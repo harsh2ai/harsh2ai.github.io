@@ -1,0 +1,97 @@
+.container{
+  
+    
+}
+.blans{
+    
+    margin-top: 20px;
+}
+.first{
+    background-color: #007bff;
+   
+    height: 170px;
+    border-radius: 5px;
+    padding-left: 8px;
+    color: aliceblue;
+size: 140px;
+
+}
+
+.nameh{
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+
+
+.alert-success{
+   margin-top: 25px;
+height: 68px;
+text-align: justify;
+}
+.line-sep{
+    border:
+    2px solid black;
+}
+
+.edu{
+margin-top: 8px;
+}
+.badge{
+    margin-top:6px;
+    padding-top:8px;
+    height: 30px;
+width: 122px;
+
+}
+.line-sept{
+    margin-top: 15px;
+    border: 2px solid black;
+}
+.skillhead{
+    margin-top: 3px;
+    
+}
+.mooc{
+    margin-top: 7px;
+    margin-bottom: 4px;
+}
+.proj{
+    margin-top: 8px;
+}
+
+.card1{
+  
+    margin-top: 20px;
+    height: 120px;
+  }
+
+
+.card2{
+  
+    margin-top: 450px;
+    
+  }
+
+.card-title{
+    margin-top: 5px;
+}
+.randx{
+text-align: center;
+margin-top: 18px;
+color: #007bff;
+}
+.img {
+    background-image: url(' https://images.pexels.com/photos/1762851/pexels-photo-1762851.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+  }
+.card-img-top {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+    }
+
+    .container-fluid{
+        margin-top: 0px;
+        background-color: #007bff;
+        text-align: center;
+    }
