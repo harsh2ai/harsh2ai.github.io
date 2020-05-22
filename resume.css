@@ -1,34 +1,39 @@
-.container{
-  
-    
-}
+
 .blans{
     
     margin-top: 20px;
 }
+
+
+
+.apples{
+    font-size: 2.8vw;
+    
+}
 .first{
     background-color: #007bff;
    
-    height: 170px;
-    border-radius: 5px;
+    height: 180px;
+  
     padding-left: 8px;
     color: aliceblue;
 size: 140px;
 
 }
 
+.texa{
+    font-size:0.2vw;}
+
+
 .nameh{
     padding-top: 20px;
     padding-bottom: 8px;
 }
 
-
-
-.alert-success{
-   margin-top: 25px;
-height: 68px;
-text-align: justify;
+.parrot{
+    margin-top: 10px;
 }
+
 .line-sep{
     border:
     2px solid black;
